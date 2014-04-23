@@ -1,4 +1,4 @@
 npi
 ===
 
-National Provider Identifier (NPI) and NPI Check Digit Validators
+National Provider Identifier (NPI) Validators and NPI Check Digit Generators
